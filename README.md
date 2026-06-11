@@ -1,5 +1,12 @@
 # Hi, I'm Danu Setiawan 👋
 
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![Flask](https://img.shields.io/badge/Flask-Web_App-black)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple)
+
+## Python Backend Developer
+
 ## Python Backend Developer
 
 I build business applications using Python, Flask, MySQL, Bootstrap, and modern web technologies.
