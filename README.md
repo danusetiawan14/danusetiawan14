@@ -7,8 +7,6 @@
 
 ## Python Backend Developer
 
-## Python Backend Developer
-
 I build business applications using Python, Flask, MySQL, Bootstrap, and modern web technologies.
 
 Currently developing systems for:
