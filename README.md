@@ -1,9 +1,10 @@
 # Hi, I'm Danu Setiawan 👋
 
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![Flask](https://img.shields.io/badge/Flask-Web_App-black)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-purple)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
 
 ## Python Backend Developer
 
